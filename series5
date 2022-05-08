@@ -1,0 +1,4 @@
+list_a = ["jyo","uma","sushma"]
+list_b = [1,2,3]
+c = list_a+list_b
+print(c)

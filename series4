@@ -1,3 +1,5 @@
 string = "jyothi"
 r = string[::-1]
 print(r)
+L_r = len(r)
+print(L_r)
